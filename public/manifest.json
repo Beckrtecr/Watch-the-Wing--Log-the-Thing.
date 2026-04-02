@@ -1,0 +1,15 @@
+{
+  "short_name": "Watch the Wing",
+  "name": "Watch the Wing, Log the Thing",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
