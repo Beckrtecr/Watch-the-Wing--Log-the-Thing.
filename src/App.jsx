@@ -124,8 +124,7 @@ function App() {
             <img src="/assets/logo.png" style={{ width: '38px', height: '38px', objectFit: 'contain' }} alt="Logo" />
           </div>
           <div className="site-brand">
-            <h1 className="site-title">Watch the Wing</h1>
-            <p className="site-subtitle">Log the Thing</p>
+            <h1 className="site-title">Van by the River</h1>
           </div>
         </div>
 
